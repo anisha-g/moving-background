@@ -1,0 +1,30 @@
+/*.wrapper {
+  background: url(banner.jpg) repeat 0 0;
+  background-size: 500px;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  color:blue;
+}*/
+
+.wrapper {
+  background: #fff url(banner.jpg) no-repeat 0 0;
+  background-size: 200% 150%;
+  color: #fff;
+ 
+  height: 100%;
+  left: 0;
+  position: absolute;
+  text-align: center;
+  text-shadow: 5px 5px black;
+  top: 0;
+  width: 100%;
+
+
+
+
+
+  
+}
